@@ -13,4 +13,6 @@ ___
 ### Цель работы
 Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".
 ### Ход работы
-Установили Docker.Desktop 
+1. Установка [Docker.Desktop](https://www.docker.com/products/docker-desktop/)
+   
+3. Установка [Minikube](https://minikube.sigs.k8s.io/docs/start/)
