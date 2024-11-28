@@ -7,3 +7,10 @@ Author: Krapivin Vladislav Valerievich\
 Lab: Lab1\
 Date of create: 20.11.2023\
 Date of finished:
+
+___
+## Лабораторная работа №1 "Установка Docker и Minikube, мой первый манифест."
+### Цель работы
+Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".
+### Ход работы
+Установили Docker.Desktop 
