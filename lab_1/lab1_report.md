@@ -17,7 +17,7 @@ ___
    
 2. Установка [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
-3. Запуск кластера Minikube в оболочке Bash командой ``minikube start``
+3. Запуск Minikube в оболочке Bash 
 
 ![Minikube](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/Minikube.png)
 
@@ -27,11 +27,11 @@ ___
 
 5. Применение конфигурационного файла формата .yaml
 
-![Apply]( )
+![Apply](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/pod%20apply.png)
 
 6. Создание сервиса для доступа к поду
 
-![Expose]( )
+![Expose](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/pod%20expose.png)
 
 7. Создание туннеля между компьютером и подом
 
@@ -39,16 +39,16 @@ ___
 
 8. Открытие веб-страницы по адресу
 
-![Vault]( )
+![Vault](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/Vault.png)
 
 9. Поиск токена
 
-![Token]( )
+![Token](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/Token.png)
 
 10. Авторизация при помощи токена
 
-![VaultOpen]( )
+![VaultOpen](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/Vault%20Open.png)
 
-11. Остановка кластера
+11. Остановка Minikube
 
-![MinikubeStop]( )
+![MinikubeStop](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/minikube%20stop.png)
