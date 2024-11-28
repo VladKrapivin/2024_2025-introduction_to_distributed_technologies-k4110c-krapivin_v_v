@@ -17,6 +17,6 @@ ___
    
 2. Установка [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
-3. Запуск кластера Minikube в оболочке Bash командой ``minicube start``
-
+3. Запуск кластера Minikube в оболочке Bash командой ``minikube start``
+![Minikube](Minikube start.png)
 4. 
