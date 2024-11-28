@@ -15,4 +15,8 @@ ___
 ### Ход работы
 1. Установка [Docker.Desktop](https://www.docker.com/products/docker-desktop/)
    
-3. Установка [Minikube](https://minikube.sigs.k8s.io/docs/start/)
+2. Установка [Minikube](https://minikube.sigs.k8s.io/docs/start/)
+
+3. Запуск кластера Minikube в оболочке Bash командой ``minicube start``
+
+4. 
