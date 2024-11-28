@@ -5,7 +5,7 @@ Year: 2024/2025\
 Group: K4110c\
 Author: Krapivin Vladislav Valerievich\
 Lab: Lab1\
-Date of create: 20.11.2023\
+Date of create: 20.11.2024\
 Date of finished:
 
 ___
