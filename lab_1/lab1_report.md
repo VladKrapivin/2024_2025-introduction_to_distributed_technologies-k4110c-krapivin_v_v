@@ -52,3 +52,6 @@ ___
 ### 11. Остановка Minikube
 
 ![MinikubeStop](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_1/pics/minikube%20stop.png)
+
+### 12. Схема организации контейеров и сервисов
+
