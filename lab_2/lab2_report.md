@@ -36,10 +36,16 @@ ___
 
 ![React app](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/reactapp.png)
 
+### 6. Логи подов 
+
+![Logs](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/logs.png)
+
 ## Выводы
 - Среди параметров `REACT_APP_USERNAME`, `REACT_APP_COMPANY_NAME` и `Container name` изменяется только последний (как и IP), поскольку сервис может обращаться к любому из подов в ReplicaSet. В нашем случае ReplicaSet состоит из 2 подов: 65t4f и 9sz5l.
 
 ![React app](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/pods.png)
 
 ## Схема организации контейнеров и сервисов
+
+![scheme](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/pods.png)
 
