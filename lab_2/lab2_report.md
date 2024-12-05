@@ -47,5 +47,4 @@ ___
 
 ## Схема организации контейнеров и сервисов
 
-![scheme](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/pods.png)
-
+![Scheme](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/Схема%20организации%20контейнеров%20и%20сервисов.drawio.png)
