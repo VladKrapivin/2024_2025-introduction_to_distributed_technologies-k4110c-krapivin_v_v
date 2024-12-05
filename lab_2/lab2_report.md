@@ -4,7 +4,7 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2024/2025\
 Group: K4110c\
 Author: Krapivin Vladislav Valerievich\
-Lab: Lab1\
+Lab: Lab2\
 Date of create: 3.12.2024\
 Date of finished:
 
@@ -32,7 +32,7 @@ ___
 ![Port-Forwarding](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/port-forward.png)
 
 
-### 5. Подключение к контейнерам через веб браузер. 
+### 5. Подключение через веб браузер. 
 
 ![React app](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/reactapp.png)
 
