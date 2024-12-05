@@ -41,5 +41,5 @@ ___
 
 ![React app](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_2/pics/pods.png)
 
-## Схема организации контейеров и сервисов
+## Схема организации контейнеров и сервисов
 
