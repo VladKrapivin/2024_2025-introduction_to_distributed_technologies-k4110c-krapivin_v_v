@@ -5,8 +5,8 @@ Year: 2024/2025\
 Group: K4110c\
 Author: Krapivin Vladislav Valerievich\
 Lab: Lab2\
-Date of create: 3.12.2024\
-Date of finished:
+Date of create: 03.12.2024\
+Date of finished: 05.12.2024
 
 ___
 # Лабораторная работа №2 "Развертывание веб сервиса в Minikube, доступ к веб интерфейсу сервиса. Мониторинг сервиса."
