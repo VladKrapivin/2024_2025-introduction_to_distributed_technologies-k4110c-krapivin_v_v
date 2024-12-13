@@ -28,6 +28,7 @@ Date of finished:
 ![ingress.png](pics/ingress.png)
 > Ingress — это объект API Kubernetes, который используется для предоставления доступа к маршрутам HTTP и HTTPS извне кластера сервисам внутри кластера.
 ### 7.Изменение файла host - ввод FQDN и IP адреса ingress.
+![host.png](pics/host.png)
 ### 8.Вход в веб-приложение 
 ![ReactApp.png](pics/ReactApp.png)
 ### 9.Просмотр сертификата
