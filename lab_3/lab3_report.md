@@ -15,14 +15,21 @@ Date of finished:
 ### 1.Запуск Minikube
 `minikube start`
 ### 2.Создание манифеста [config.yaml](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_3/source/config.yaml) в котором описывается ConfigMap
+![config.png](pics/config.png)
 > Configmap — это объект Kubernetes, который используется для хранения неконфиденциальных данных конфигурации в виде пар «ключ — значение».
 ### 3.Создание манифеста [replicaSet.yaml](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_3/source/replicaSet.yaml) в котором описываются ReplicaSet и Service
+![replicaset.png](pics/replicaset.png)
 ### 4.Выпуск сертификата при помощи утилиты [OpenSSL](https://github.com/openssl/openssl?tab=readme-ov-file#overview) на полное доменное имя (FQDN) необходимого интернет-хостинга.
+![openSSL.png](pics/openSSL.png)
 ### 5.Создание конфигурационного файла Secret.
 > Secret — это объект Kubernetes, предназначенный для хранения чувствительных данных, таких как пароли, ключи шифрования и API-токены.
+![secret.png](pics/secret.png)
 ### 6.Создание манифеста [ingress.yaml](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_3/source/ingress.yaml) в котором описывается Ingress
 > Ingress — это объект API Kubernetes, который используется для предоставления доступа к маршрутам HTTP и HTTPS извне кластера сервисам внутри кластера.
+![ingress.png](pics/ingress.png)
 ### 7.Изменение файла host - ввод FQDN и IP адреса ingress.
 ### 8.Вход в веб-приложение 
+![ReactApp.png](pics/ReactApp.png)
 ### 9.Просмотр сертификата
-### Схема организации контейеров и сервисов
+![certificate.png](pics/certificate.png)
+### 10.Схема организации контейеров и сервисов
