@@ -14,14 +14,13 @@ Date of finished:
 ## Ход работы
 ### 1.Запуск Minikube
 `minikube start`
-### 2.Создание манифеста config.yaml в котором описывается ConfigMap
-[here](./README_2.md)
+### 2.Создание манифеста [config.yaml](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_3/source/config.yaml) в котором описывается ConfigMap
 > Configmap — это объект Kubernetes, который используется для хранения неконфиденциальных данных конфигурации в виде пар «ключ — значение».
-### 3.Создание манифеста replicaSet.yaml в котором описываются ReplicaSet и Service
-### 4.Выпуск сертификата при помощи утилиты OpenSSL на полное доменное имя (FQDN) необходимого интернет-хостинга.
+### 3.Создание манифеста [replicaSet.yaml](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_3/source/replicaSet.yaml) в котором описываются ReplicaSet и Service
+### 4.Выпуск сертификата при помощи утилиты [OpenSSL](https://github.com/openssl/openssl?tab=readme-ov-file#overview) на полное доменное имя (FQDN) необходимого интернет-хостинга.
 ### 5.Создание конфигурационного файла Secret.
 > Secret — это объект Kubernetes, предназначенный для хранения чувствительных данных, таких как пароли, ключи шифрования и API-токены.
-### 6.Создание манифеста ingress.yaml в котором описывается Ingress
+### 6.Создание манифеста [ingress.yaml](https://github.com/VladKrapivin/2024_2025-introduction_to_distributed_technologies-k4110c-krapivin_v_v/blob/main/lab_3/source/ingress.yaml) в котором описывается Ingress
 > Ingress — это объект API Kubernetes, который используется для предоставления доступа к маршрутам HTTP и HTTPS извне кластера сервисам внутри кластера.
 ### 7.Изменение файла host - ввод FQDN и IP адреса ingress.
 ### 8.Вход в веб-приложение 
