@@ -9,3 +9,5 @@ Date of create: 13.12.2024\
 Date of finished:
 
 # Лабораторная работа №4 "Сети связи в Minikube, CNI и CoreDNS"
+## Цель работы: ознакомиться с CNI Calico и функцией IPAM Plugin, изучить особенности работы CNI и CoreDNS.
+
