@@ -34,4 +34,5 @@ Date of finished:
 ![podIP](pics/podIP.png)
 ### 11. Проверка доступности подов командой `ping`
 ![ping](pics/ping.png)
-### 12. Схема организации контейеров и сервисов
+### 12. Схема организации контейнеров и сервисов
+![scheme](pics/scheme.drawio.png)
