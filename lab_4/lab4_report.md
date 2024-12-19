@@ -29,7 +29,7 @@ Date of finished:
 ### 8. Проброс портов
 ![port-forward](pics/port-forward.png)
 ### 9. Вход в веб-приложение
-![reactapp](pics/reactapp.png)
+![reactapp](pics/react_app.png)
 ### 10. Просмотр IP подов
 ![podIP](pics/podIP.png)
 ### 11. Проверка доступности подов командой ping
