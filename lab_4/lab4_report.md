@@ -20,9 +20,9 @@ Date of finished:
 ![labels](pics/labels.png)
 ### 4. Просмотр и удаление пула адресов по умолчанию
 ![ippool_config](pics/ippool_config.png)
-### 5. Создание новых пулов адресов путем применения манифеста ippool.yaml
+### 5. Создание новых пулов адресов путем применения манифеста [ippool.yaml](source/ippool.yaml)
 ![ippool_apply](pics/ippool_apply.png)
-### 6. Создание манифеста deploy.yaml описывающего `deployment` с двумя репликами контейнера и `service` для доступа к нему
+### 6. Создание манифеста [deploy.yaml](source/deploy.yaml) описывающего `deployment` с двумя репликами контейнера и `service` для доступа к нему
 ![deploy](pics/deploy.png)
 ### 7. Просмотр подов и деплоймента
 ![getpodsanddeploy](pics/getpodsanddeploy.png)
@@ -32,6 +32,6 @@ Date of finished:
 ![reactapp](pics/react_app.png)
 ### 10. Просмотр IP подов
 ![podIP](pics/podIP.png)
-### 11. Проверка доступности подов командой ping
+### 11. Проверка доступности подов командой `ping`
 ![ping](pics/ping.png)
 ### 12. Схема организации контейеров и сервисов
